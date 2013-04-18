@@ -1,0 +1,9 @@
+{
+    "name": "Flood"
+  , "description": "TCP/UDP/HTTP Flood Application in NodeJs"
+  , "version": "0.1.0"
+  , "author": "Afshin Mehrabani <afshin.meh@gmail.com>"
+  , "dependencies": {
+        "commander": "1.1.1"
+    }
+}
